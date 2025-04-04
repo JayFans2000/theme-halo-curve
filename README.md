@@ -1,6 +1,7 @@
 # Theme Modern Starter
 
-一个集成了现代前端技术栈的 Halo 2.0 的主题开发模板。
+Halo-Theme-Curve是一款集成了现代前端技术栈的 Halo 2.x 的主题博客。
+该主题移植自 imsyy 的 vitepress-theme-curve 主题，是借鉴于 Hexo 社区中 张洪 Heo 对 Hexo-Theme-Butterfly 主题的魔改版本。
 
 主题开发文档可查阅：<https://docs.halo.run/2.0.0-SNAPSHOT/developer-guide/theme/prepare>
 
